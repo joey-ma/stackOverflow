@@ -15,11 +15,13 @@ Giacomo M asked Oct 29 '19 at 10:10
 
 Thanks for contributing an answer to Stack Overflow!
 
-Please be sure to answer the question. Provide details and share your research!
+- Please be sure to answer the question. Provide details and share your research!
+
 But avoid …
 
-Asking for help, clarification, or responding to other answers.
-Making statements based on opinion; back them up with references or personal experience.
+- Asking for help, clarification, or responding to other answers.
+- Making statements based on opinion; back them up with references or personal experience.
+
 To learn more, see our tips on writing great answers.
 
 # My prepared but not submitted answer
